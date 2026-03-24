@@ -17,8 +17,7 @@ DELETE g  FROM gold.table_1 g  WHERE NOT EXISTS
 (SELECT * FROM silver.table_1 s WHERE s.id = g.id )
 
 /*
-asa
-====================sadas
+====================
 DELETE using JOIN
 ====================
 */
