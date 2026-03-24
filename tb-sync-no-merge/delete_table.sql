@@ -18,7 +18,7 @@ DELETE g  FROM gold.table_1 g  WHERE NOT EXISTS
 
 /*
 asa
-====================
+====================sadas
 DELETE using JOIN
 ====================
 */
